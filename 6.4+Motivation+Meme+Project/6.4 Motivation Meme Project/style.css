@@ -1,0 +1,21 @@
+body {
+    background-color: wheat;
+}
+h1 {
+
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+.poster {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+  }
+  
